@@ -1,0 +1,44 @@
+
+style.css
+h1{
+  margin-top:50px;
+ 
+}
+h3{
+  margin : 20px 0 40px 0 ;
+  color: rgb(128, 44, 8);
+ font-size: 35px;
+  text-align : center;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+}
+h4{
+  margin:30px auto 10px auto;
+  text-align: center;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  color: brown;
+}
+h5{
+  margin:5px 250px 20px 250px;
+    
+}
+th{
+  font-size:20px;
+  font-weight:bold;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+color: rgb(87, 12, 24);
+}
+#table{
+  margin:20px 200px 30px 200px;
+}
+#imagedesc{
+  margin: 20px 250px 20px 250px;
+  padding:20px 20px 20px 20px;
+  background-color:whitesmoke;
+}
+#page{
+  padding:20px 20px 20px 20px;
+  background-color:#f0e9e4
+}
+#credit{
+  padding:10px 10px 10px 10px;
+}
